@@ -12,7 +12,7 @@
 #         Default:    0 - (Disabled)
 #                     1 - (Enabled)
 
-Azerothcore.Racial.Trait.Swap.Announce.enable = 1
+Azerothcore.Racial.Trait.Swap.Announce.enable = 0
 
 #
 #    Racial.Traits.Swap.Gold
@@ -20,7 +20,7 @@ Azerothcore.Racial.Trait.Swap.Announce.enable = 1
 #         Default:    0 - (Zero Gold Free)
 #                     10 - (Ten Gold Cost)
 
-Racial.Traits.Swap.Gold = 10
+Racial.Traits.Swap.Gold = 1000
 
 #
 ###################################################################################################
